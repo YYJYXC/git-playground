@@ -12,3 +12,5 @@ This is the line from my feature branch.
 
 This is another line in the REadmin from the feature branch.
 >>>>>>> feature-branch-name
+
+This is the line of new feature branch.
